@@ -47,23 +47,17 @@
 
    Here is screenshots from excel file generated with Nmon Analyzer. (test.nmon.xlsx)
 
-      [[/Samples/test.nmon.xlsx.001.jpg]]
-
-      [[/Samples/test.nmon.xlsx.002.jpg]]
-      
-      [[/Samples/test.nmon.xlsx.003.jpg]]      
+      ![test.nmon.xlsx.001.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.001.png)
+      ![test.nmon.xlsx.002.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.002.png)
+      ![test.nmon.xlsx.003.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.003.png)
 
    Here is screenshots from the html file generated with PyNmon2Highcharts.py (test.nmon.html)
    
-      [[/Samples/test.nmon.html.001.jpg]]
-      
-      [[/Samples/test.nmon.html.002.jpg]]
-
-      [[/Samples/test.nmon.html.003.jpg]]
-
-      [[/Samples/test.nmon.html.004.jpg]]
-
-      [[/Samples/test.nmon.html.005.jpg]]      
+      ![test.nmon.html.001.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.001.jpg)
+      ![test.nmon.html.002.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.002.jpg)
+      ![test.nmon.html.003.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.003.jpg)
+      ![test.nmon.html.004.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.004.jpg)
+      ![test.nmon.html.005.jpg](https://github.com/DarkAngelStrike/PyNmon2Highcharts/blob/master/Samples/test.nmon.html.005.jpg)
 
 ## Warning 
 
