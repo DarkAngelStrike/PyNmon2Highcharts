@@ -13,9 +13,8 @@
    
 ## Requirements
 
-   Python 3.x + Internet Browser (Firefox, Chrome, etc.)
-
-   Nmon output log (AIX or Linux)
+   * Python 3.x + Internet Browser (Firefox, Chrome, etc.)
+   * Nmon output log (AIX or Linux)
 
 ## Usage
 
@@ -27,7 +26,7 @@
 
    1) Install Python 3.3.* (http://www.python.org/download/)
 
-   2) Get https://github.com/DarkAngelStrike/PyHighcharts and put it into your Python installation folder in "Lib\site-packages".
+   2) Get https://github.com/DarkAngelStrike/PyHighcharts and into Python installation folder in "Lib\site-packages".
 
    3) Get https://github.com/DarkAngelStrike/PyNmon2Highcharts
    
