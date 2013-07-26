@@ -43,19 +43,27 @@
 
    For these samples the nmon output from this project was used:
 
-   https://github.com/madmaze/pyNmonAnalyzer/blob/master/test.nmon
+      https://github.com/madmaze/pyNmonAnalyzer/blob/master/test.nmon
 
-   Here is the excel file generated with Nmon Analyzer. (test.nmon.xlsx)
+   Here is screenshots from excel file generated with Nmon Analyzer. (test.nmon.xlsx)
 
-   [[/Sample/test.nmon.xlsx.001.jpg]]
+      [[/Samples/test.nmon.xlsx.001.jpg]]
 
-   [[/Sample/test.nmon.xlsx.002.jpg]]
+      [[/Samples/test.nmon.xlsx.002.jpg]]
+      
+      [[/Samples/test.nmon.xlsx.003.jpg]]      
 
-   Here is the html file generated with PyNmon2Highcharts.py (test.nmon.html)
+   Here is screenshots from the html file generated with PyNmon2Highcharts.py (test.nmon.html)
    
-   [[/Sample/test.nmon.html.001.jpg]]
-   
-   [[/Sample/test.nmon.html.002.jpg]]
+      [[/Samples/test.nmon.html.001.jpg]]
+      
+      [[/Samples/test.nmon.html.002.jpg]]
+
+      [[/Samples/test.nmon.html.003.jpg]]
+
+      [[/Samples/test.nmon.html.004.jpg]]
+
+      [[/Samples/test.nmon.html.005.jpg]]      
 
 ## Warning 
 
