@@ -1,6 +1,9 @@
 ## PyNmon2Highcharts
 
-   Generate Highcharts graphics from NMON output log. (http://www.ibm.com/developerworks/aix/library/au-analyze_aix/ or http://nmon.sourceforge.net/pmwiki.php).
+   Generate Highcharts graphics from NMON output log.
+
+      AIX:   http://www.ibm.com/developerworks/aix/library/au-analyze_aix/
+      Linux: http://nmon.sourceforge.net/pmwiki.php
 
 ## Overview
 
@@ -11,35 +14,47 @@
 ## Requirements
 
    Python 3.x + Internet Browser (Firefox, Chrome, etc.)
+
    Nmon output log (AIX or Linux)
 
 ## Usage
 
+   ```
    python PyNmon2Highcharts.py [-h] -i INPUT
+   ```
 
 ## Install
 
    1) Install Python 3.3.* (http://www.python.org/download/)
+
    2) Get https://github.com/DarkAngelStrike/PyHighcharts and put it into your Python installation folder in "Lib\site-packages".
+
    3) Get https://github.com/DarkAngelStrike/PyNmon2Highcharts
    
 ## Example
 
+   ```
    python PyNmon2Highcharts.py -i test.nmon
+   ```
 
    This will generate, in the same directory, and open in the default browser a web page with the same name as the input file with the html extension. (test.nmon.html)
 
 ## Samples
 
    For these samples the nmon output from this project was used:
+
    https://github.com/madmaze/pyNmonAnalyzer/blob/master/test.nmon
 
    Here is the excel file generated with Nmon Analyzer. (test.nmon.xlsx)
+
    [[/Sample/test.nmon.xlsx.001.jpg]]
+
    [[/Sample/test.nmon.xlsx.002.jpg]]
 
    Here is the html file generated with PyNmon2Highcharts.py (test.nmon.html)
+   
    [[/Sample/test.nmon.html.001.jpg]]
+   
    [[/Sample/test.nmon.html.002.jpg]]
 
 ## Warning 
